@@ -6,6 +6,7 @@
 
 ![设计要求](https://raw.githubusercontent.com/Egoqing/Implementation-of-network-device-interface-in-Linux-system/main/%E5%9B%BE%E7%89%87/image.png)
 
+[师弟发给我的参考链接，实现的更加完整,还包含与用户空间的通信，以及添加定时器用来统计，各位可以移步参考](https://blog.csdn.net/sinat_37853238/article/details/127078940)
 - [Linux虚拟网络设备接口编程实现](#linux虚拟网络设备接口编程实现)
   - [设计要求](#设计要求)
   - [1 实现流程](#1-实现流程)
